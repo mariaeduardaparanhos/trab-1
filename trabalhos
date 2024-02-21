@@ -1,0 +1,49 @@
+Maria Eduarda Paranhos
+
+Enunciado: 
+
+
+1 - Forneça a definição do termo ARQUIVO, no contexto da computação
+No contexto da computação, um arquivo é uma unidade de armazenamento de informações que é identificada por um nome e uma extensão. Ele pode conter dados de vários tipos, como texto, imagens, vídeos, programas executáveis, entre outros. Os arquivos são organizados e acessados pelo sistema operacional do computador e podem ser manipulados pelos usuários e pelos programas.
+
+ 1.1 - O que é um ARQUIVO DE TEXTO? 
+Um arquivo de texto é um tipo de arquivo que contém apenas texto, sem formatação complexa ou elementos multimídia embutidos. Geralmente, os arquivos de texto são codificados em ASCII, UTF-8 ou outro padrão de codificação de caracteres, e podem ser abertos e editados por editores de texto simples, como o Bloco de Notas no Windows ou o TextEdit no macOS. Esses arquivos são comumente usados para armazenar dados simples, como código-fonte, configurações de programas, registros de eventos, entre outros.
+
+2 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores
+No contexto da programação de computadores, uma variável é um nome associado a um valor ou a uma localização de memória que armazena um valor. Essa associação permite que os programadores manipulem e processem dados de forma dinâmica durante a execução de um programa. As variáveis podem conter diferentes tipos de dados, como números, textos, booleanos, entre outros, e podem ter seus valores alterados ao longo da execução do programa. Elas desempenham um papel fundamental na escrita de código e na manipulação de informações em algoritmos e programas.
+
+ 3 - Explique o que seria um SERVIDOR, no contexto da computação
+No contexto da computação, um servidor é um computador ou um sistema de computadores que fornece serviços, recursos ou dados para outros dispositivos, conhecidos como clientes, em uma rede. Os servidores são projetados para executar funções específicas, como hospedar sites, armazenar e gerenciar arquivos, executar aplicativos, processar solicitações de rede, entre outros. Eles são configurados para responder a solicitações de clientes e fornecer acesso aos recursos que hospedam de forma eficiente e segura. Os servidores podem variar em termos de capacidade de processamento, armazenamento, segurança e funções específicas, dependendo das necessidades da rede e dos serviços que prestam.
+
+ 4 - Crie uma conta E um repositório no GITHUB
+
+
+
+
+dois) 
+
+Maria Eduarda Paranhos
+
+1 – Encontre referências e comente:
+
+ a) A relação entre a LGPD e os Data Centers no Brasil.
+
+A relação entre a LGPD e os data centers no Brasil é significativa, pois os data centers desempenham um papel crucial no armazenamento e processamento de dados pessoais, que são protegidos pela LGPD. Os data centers são usados para armazenar grandes quantidades de dados, incluindo informações pessoais de usuários e clientes. A LGPD estabelece requisitos específicos para o armazenamento e processamento desses dados, garantindo sua segurança e privacidade. Ademais, os data centers devem implementar medidas de segurança da informação adequadas para proteger os dados pessoais conforme exigido pela LGPD. 
+
+ b)Formatos de arquivos de dados proprietários e abertos 
+
+Os formatos de arquivos de dados podem ser proprietários ou abertos, dependendo das restrições de acesso e das políticas de licenciamento associadas a eles, a relação entre os dois se consiste em os formatos de arquivo proprietários são desenvolvidos e controlados por uma entidade específica, como uma empresa. Eles geralmente têm restrições sobre como podem ser usados, acessados e modificados. Exemplos de formatos de arquivo de dados proprietários incluem o formato .docx do Microsoft Word, o formato .psd do Adobe Photoshop e o formato .xls do Microsoft Excel. já os formatos de arquivo de dados abertos são desenvolvidos e disponibilizados para o público em geral sem restrições significativas. Eles geralmente têm especificações técnicas documentadas e podem ser acessados e modificados por qualquer pessoa. 
+
+b.1) forneça exemplos de formatos:
+
+Exemplos de formatos de arquivo de dados abertos:
+ incluem o formato .csv (valores separados por vírgula), o formato .json (JavaScript Object Notation) e o formato .xml (Extensible Markup Language).
+
+Exemplos de formatos de arquivo de dados proprietários:
+ incluem o formato .docx do Microsoft Word, o formato .psd do Adobe Photoshop e o formato .xls do Microsoft Excel.
+
+b.2 discuta as implicações relacionadas a dados públicos
+
+Dados públicos têm implicações significativas em diversos aspectos da sociedade, especialmente quando se trata de transparência, responsabilidade governamental, inovação e participação cívica, mas é fundamental abordar questões relacionadas à privacidade, segurança e equidade para garantir que esses benefícios sejam alcançados de forma responsável e sustentável.
+
+ 2 – Inclua seus comentários no arquivo de texto NO github
